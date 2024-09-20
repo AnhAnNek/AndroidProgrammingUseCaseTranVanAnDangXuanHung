@@ -25,13 +25,13 @@
 - **Mục đích:** Tạo điều kiện cho người dùng mới có thể truy cập và sử dụng các chức năng đầy đủ của hệ thống học tập.
 - **Giao diện Đăng ký tài khoản:**
   
-<div style="text-align: center;">
+<div align="center">
   <img src="images/register.png" alt="Giao diện Đăng ký tài khoản">
 </div>
 
 - **Giao diện kích hoạt tài khoản với OTP:**
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/otp_validation.png" alt="">
 </div>
 
@@ -44,25 +44,25 @@
 - **Mục đích:** Cho phép học viên truy cập vào hệ thống và cập nhật thông tin cá nhân của mình.
 - **Giao diện Đăng nhập:**
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/login.png" alt="">
 </div>
 
 - **Giao diện xem tài khoản:**
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/account.png" alt="">
 </div>
 
 - **Giao diện cập nhật thông tin cá nhân:**
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/update_profile.png" alt="">
 </div>
 
 - **Giao diện thay đổi mặt khẩu:**
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/change_password.png" alt="">
 </div>
 
@@ -72,29 +72,29 @@
 - **Mục đích:** Hỗ trợ học viên trong việc tìm kiếm và đăng ký các khóa học họ quan tâm.
 - **Giao diện Đăng ký khóa học:**
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/course_detail_1.png">
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/course_detail_2.png">
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/course_detail_3.png">
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/course_detail_4_review.png">
 </div>
 
 - **Giao diện lọc/tìm kiếm khóa học:**
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/search.png">
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/search_filter.png">
 </div>
 
@@ -104,13 +104,13 @@
 - **Mục đích:** Giúp học viên quản lý và theo dõi quá trình học tập của mình.
 - **Giao diện Quản lý khóa học:**
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/search_filter.png" alt="">
 </div>
 
 - **Giao diện xem khóa học được yêu thích:**
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/wish_list.png" alt="">
 </div>
 
@@ -120,7 +120,7 @@
 - **Mục đích:** Cung cấp nội dung học tập và kiểm tra cho học viên trong các khóa học.
 - **Giao diện Xem bài giảng:**
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/course_management.png" alt="">
 </div>
 
@@ -136,7 +136,7 @@
 - **Mục đích:** Giúp cải thiện chất lượng khóa học dựa trên phản hồi của học viên.
 - **Giao diện Đánh giá khóa học:**
 
-<div style="text-align: center;">
+<div align="center">
   <img src="images/course_detail_4_review.png">
 </div>
 
